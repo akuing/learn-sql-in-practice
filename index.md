@@ -80,4 +80,9 @@ SQL挑战问题
 =======================  
 ####1、在交互界面下看一下emp表的DDL  
   
+
+相关答案和解释可以关注公众号：IT匠艺教研室  
+![IT匠艺教研室](images/itcraftsmanship.jpg "IT匠艺教研室")
+
+回复：sqlinpractice   获得
   
