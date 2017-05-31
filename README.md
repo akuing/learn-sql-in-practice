@@ -6,3 +6,5 @@
 ![IT匠艺教研室](images\itcraftsmanship.jpg IT匠艺教研室)
 
 回复：sqlinpractice   获得
+
+[问题挑战](./index.md)
